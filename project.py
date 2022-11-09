@@ -6,3 +6,8 @@ def login():
     pass
 
 
+
+
+def register():
+    print('this is register feature')
+    pass
